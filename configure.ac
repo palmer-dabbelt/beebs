@@ -215,6 +215,7 @@ m4_define([benchmarklist],[dnl
 [ndes],
 [nettle-arcfour],
 [nettle-cast128],
+[nettle-aes],
 [nettle-des],
 [nettle-md5],
 [newlib-exp],
